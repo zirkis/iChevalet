@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>Image/apropos.png</file>
+        <file>Image/brosse.png</file>
+        <file>Image/chat.png</file>
+        <file>Image/chatImage.png</file>
+        <file>Image/couleur.png</file>
+        <file>Image/effacer.png</file>
+        <file>Image/enregistrer.png</file>
+        <file>Image/epaisseur.png</file>
+        <file>Image/fermer.png</file>
+        <file>Image/gomme.png</file>
+        <file>Image/icone.png</file>
+        <file>Image/imprimer.png</file>
+        <file>Image/ligne.png</file>
+        <file>Image/minimiser.png</file>
+        <file>Image/nouveau.png</file>
+        <file>Image/ouvrir.png</file>
+        <file>Image/pleinecran.png</file>
+        <file>Image/rectangle.png</file>
+        <file>Image/rogner.png</file>
+        <file>Image/rond.png</file>
+        <file>Image/aide.png</file>
+    </qresource>
+</RCC>
