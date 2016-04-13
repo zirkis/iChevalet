@@ -1,4 +1,4 @@
-# iPaint
+# iChevalet
 Drawing software, "paint-like". Coded with C++. Interfaced with the Qt Framework. By Benjamin HAOUI.
 
 Screenshots:
